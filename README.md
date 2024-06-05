@@ -1,4 +1,4 @@
-# farukapp
+# prantoapp
 
 A new Flutter project.
 
